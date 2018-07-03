@@ -1,0 +1,3 @@
+rootProject.name = 'chitterbox'
+
+include ':app'
