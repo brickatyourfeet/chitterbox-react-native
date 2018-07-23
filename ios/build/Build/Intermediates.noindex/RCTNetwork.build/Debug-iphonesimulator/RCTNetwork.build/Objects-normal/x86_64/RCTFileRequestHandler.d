@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

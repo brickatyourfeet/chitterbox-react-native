@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/RCTView.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

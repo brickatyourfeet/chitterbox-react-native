@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/kylebraden/chitterbox/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/kylebraden/chitterbox/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kylebraden/chitterbox/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/kylebraden/chitterbox/android/app/build/intermediates/exploded-aar/chitterbox/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/kylebraden/chitterbox/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/kylebraden/chitterbox/android/app/build/intermediates/exploded-aar/chitterbox/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
